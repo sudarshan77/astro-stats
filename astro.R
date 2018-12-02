@@ -3,7 +3,7 @@ library(kedd)
 library(mclust)
 
 #xlsx to csv
-pulsar_data = read.csv("/home/sudarshan/Desktop/astro/astrostatisticsassignmentandaboutete(1)/J1136+1551_20100106_hi.csv", header=T)
+pulsar_data = read.csv("/J1136+1551_20100106_hi.csv", header=T)
 #oulier detection – Using euclidean distance
 euclidean_distance = as.matrix( dist( pulsar_data[,-1], upper=T, diag=T) )
 n = nrow(euclidean_distance)
