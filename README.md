@@ -1,5 +1,10 @@
 # AstroStatistics.
 
+First Course of this kind in India from SPPU - IUCAA Pune.
+
+Instructors list 1 : Prof. Somak Raychaudhuri, Prof. DJ Saikia, Dr. Kaustubh Vaghmare.
+Instructors list 2 : Prof T V Ramanathan and Dr Akanksha Kashikar - Dept of Statistics, SPPU.
+
 Sloan Digital Sky Survey
 
 1. Using data set J1136+1551_20100106_hi.xlsx for astro.R
