@@ -10,3 +10,6 @@ ponent (which can have wide range of shapes). The aim of the analysis is to esti
 
 
 2. Use Neutron Stars data. The data gives log-transformed measurements on spin period and magnetic field for neutron stars of         different types. For the purpose of the current analysis, we use only the stars from class 1.
+
+Neutron Stars.txt for NPRegr.R
+
