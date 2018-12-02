@@ -1,4 +1,6 @@
-# AstroStatistics....
+# AstroStatistics.
+
+Sloan Digital Sky Survey
 
 Using data set J1136+1551_20100106_hi.xlsx for astro.R
 
